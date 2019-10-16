@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p5claudiaguzman</string>
+    <string name="bienve">Bienvenido</string>
+    <string name="imagen">imagen</string>
+    <string name="saludar">saludar</string>
+    <string name="mensaje">SALUDAR</string>
+    <string name="txtnombre">Ingresa tu nombre :3</string>
+</resources>
